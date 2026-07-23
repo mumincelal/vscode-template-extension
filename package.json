@@ -1,6 +1,6 @@
 {
-  "name": "vscode-template-extension",
-  "displayName": "Template Extension",
+  "name": "vscode-test-extension",
+  "displayName": "Test Extension",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [
       {
-        "command": "vscode-template-extension.helloWorld",
+        "command": "vscode-test-extension.helloWorld",
         "title": "Hello World"
       }
     ]

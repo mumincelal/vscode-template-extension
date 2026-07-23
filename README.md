@@ -1,3 +1,3 @@
-# vscode-template-extension - Visual Studio Code Extension
+# vscode-test-extension - Visual Studio Code Extension
 
-This is template extension
+This is test extension
